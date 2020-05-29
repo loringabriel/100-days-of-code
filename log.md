@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: May 29, 2020 (Example 1)
+### Day 0: May 29, 2020
 <!--##### (delete me or comment me out)-->
 
 **Today's Progress**: Started learing React Native, and finished with all the setup.
