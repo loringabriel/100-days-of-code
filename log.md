@@ -23,6 +23,6 @@
 
 **Today's Progress**: Continued learing React Native, and finished the first mobile app.
 
-**Thoughts:** Today i've continued to learn React Native and i've finished my first simple mobile app. It a simple todo list / goal app. I'm ecited to start building more complex apps
+**Thoughts:** Today i've continued to learn React Native and i've finished my first simple mobile app. It a simple todo list / goal app.  I'm looking forward to start building more complex apps.
 
 <!--**Link to work:** [Calculator App](http://www.example.com)-->
