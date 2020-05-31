@@ -17,3 +17,12 @@
 **Thoughts:** Today i've continued to learn React Native and i've start working on the first simple mobile app. Learning React Native for me till now, seems very easy. This can be happening mostly because till now ive work on React web projects.
 
 <!--**Link to work:** [Calculator App](http://www.example.com)-->
+
+### Day 2: May 31, 2020
+<!--##### (delete me or comment me out)-->
+
+**Today's Progress**: Continued learing React Native, and finished the first mobile app.
+
+**Thoughts:** Today i've continued to learn React Native and i've finished my first simple mobile app. It a simple todo list / goal app. I'm ecited to start building more complex apps
+
+<!--**Link to work:** [Calculator App](http://www.example.com)-->
